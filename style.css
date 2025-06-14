@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fa-linkedin{
+    position: absolute;
+    left: 92%;
+    top: 10%;
+    display: flex;
+}
+.fa-facebook{
+    position: absolute;
+    left: 95%;
+    top: 10%;
+    display: flex;
+}
+.fa-square-instagram{
+    position: absolute;
+    left: 98%;
+    top: 10%;
+    display: flex;
+}
+.nav-bar{
+    display: flex;
+    padding-left: 250px;
+    gap: 200px;
+    color: #ffffff;
+}
+#home{
+    color: #d46304;
+}
+#background-image{
+    position: absolute;
+    top: 200px;
+    height: 80vh;
+}
+.recycle-clothes{
+    position: absolute;
+    color: #ffffff;
+    top: 400px;
+    left: 700px;
+}
+.text{
+    position: absolute;
+    color: #ffffff;
+}
+.button{
+    background-color: #942222;
+    color: #ffffff;
+}
+.video{
+    color: #ffffff;
+}
