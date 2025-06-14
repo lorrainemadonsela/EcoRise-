@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.icon{
+    display: flex;
+    justify-content: space-between ;
+    width: 60%;
+    left: 20%;
+    position: relative;
+}
+.fa-thin fa-phone{
+    color: black;
+    background-color: brown;
+}
+.find-location{
+    
+    position: relative;
+    left: 45%;
+    color: #942222;
+    font-size: 20px;
+    /* padding-bottom: 6%; */
+}
+
+.phone{
+    background-color:#DA6304;
+    padding: 12px 12px 12px 12px;
+    color: azure;
+}
+.location{
+    background-color:#DA6304;
+    padding: 12px 12px 12px 12px;
+    color: azure;
+
+}
+.email{
+    background-color:#DA6304;
+    padding: 12px 12px 12px 12px;
+    color: azure;
+    /* position: absolute; */
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+#map{
+    width: 90vw;
+    height: 70vh;
+    left: 5%;
+    border: 1px solid;
+    margin: auto;
+    position: relative;
+}
